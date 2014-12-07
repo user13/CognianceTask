@@ -12,3 +12,8 @@ candidate with ```id=<cand_id>```.
 **POST**, ```http://qainterview.cogniance.com/candidates/```, adds a new candidate. 
 **DELETE**, ```http://qainterview.cogniance.com/candidates/<cand_id>```, deletes a 
 candidate with ```id=<cand_id>```. 
+
+
+
+[1]: https://eclipse.org/home/index.php
+[2]: http://qainterview.cogniance.com/candidates
